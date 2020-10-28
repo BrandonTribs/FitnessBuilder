@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788500795274",
+    "firebase_url": "https://fitnessbuilder-ee58a.firebaseio.com",
+    "project_id": "fitnessbuilder-ee58a",
+    "storage_bucket": "fitnessbuilder-ee58a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788500795274:android:a96ff5861e2aa1aa7bc273",
+        "android_client_info": {
+          "package_name": "com.brandontribs.fitnessbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788500795274-n0mdhqkbmriccrpavcic8va4tlbr0en8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brandontribs.fitnessbuilder",
+            "certificate_hash": "f0ece806b6948ecc430b963a6e978e404bd90324"
+          }
+        },
+        {
+          "client_id": "788500795274-goerb16ebtdbscet90h6i0ttti9ni4hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn_3OdKudLfy8vf0LVxClk_a99HGvD2JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788500795274-goerb16ebtdbscet90h6i0ttti9ni4hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
